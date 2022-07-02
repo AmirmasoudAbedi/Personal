@@ -2515,3 +2515,13 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 #sophia {
 	margin-top: -100px;
 }
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+* {
+	max-width: 100%;
+	height: auto;
+}
